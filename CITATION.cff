@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use Envix, please cite this software project."
+title: "Envix"
+type: software
+authors:
+  - family-names: "Attarbashian"
+    given-names: "Vahid"
+version: "2.2.0"
+date-released: "2026-09-12"
+url: "https://envix.ir"
+repository-code: "https://github.com/Attarbashian/envix"
+license: "proprietary"
